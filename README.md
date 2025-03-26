@@ -2,7 +2,7 @@
 
 This is a repository for notebooks and the corresponding data needed to reproduce the main figures from the CytoSignal paper.
 
-If you’re interested, check out our main CytoSignal repo [here](https://github.com/welch-lab/cytosignal) for the downloadable software.
+If you’re interested, check out our main [CytoSignal repo](https://github.com/welch-lab/cytosignal) for the downloadable software.
 
 `CytoSignal & VeloCytoSignal` is a tool for detecting static and dynamic cell-cell signaling at cellular resolution from spatial transcriptomic data. Our tools are applicable to most sequencing-based and probe-based spatial transcriptomic techniques, such as Slide-seq, Stereo-seq, and MERFISH, requiring only a cell-by-gene matrix and a cell-by-spatial-position matrix.
 Check out our paper for a more complete description of the methods and analyses:
