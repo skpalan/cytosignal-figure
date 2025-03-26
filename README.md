@@ -15,7 +15,7 @@ For `CytoSignal` objects named `cs_obj_xxx`, they're published and stored on `Ze
 
 * [Figure 2, a-g](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_2a-2g.html)
 * [Figure 2, h-r](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_2h-2r.html)
-* [Figure 2, o&k](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_2o-2k.html)
+* [Figure 2, o&k](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_2o&2k.html)
 * [Figure 3](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_3.html)
 * [Figure 3c](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_3c.html)
 * [Figure 3h](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_3h.html)
