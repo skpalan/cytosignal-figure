@@ -19,5 +19,6 @@ To reproduce all the figures, check out the notebooks below. Please note that al
 * [Figure 3c](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_3c.html)
 * [Figure 3h](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_3h.html)
 * [Figure 4](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_4.html)
+* [Figure 4c](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_4c.html)
 * [Figure 5, a-c](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_5a-5c.html)
 * [FIgure 5, d-g](https://htmlpreview.github.io/?https://github.com/skpalan/cytosignal-figure/blob/main/notebooks/Figure_5d-g.html)
